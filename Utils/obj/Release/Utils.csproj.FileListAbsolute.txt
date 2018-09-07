@@ -1,0 +1,7 @@
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\bin\Release\Utils.dll
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\bin\Release\Utils.pdb
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Release\Utils.Forms.ThreadedDialog.resources
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Release\Utils.csproj.GenerateResource.Cache
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Release\Utils.csproj.CoreCompileInputs.cache
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Release\Utils.dll
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Release\Utils.pdb

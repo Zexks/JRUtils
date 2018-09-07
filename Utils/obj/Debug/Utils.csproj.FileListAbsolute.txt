@@ -1,0 +1,8 @@
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\bin\Debug\Utils.dll
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Debug\Utils.dll
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Debug\Utils.pdb
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\bin\Debug\Utils.pdb
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Debug\Utils.Forms.ThreadedDialog.resources
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Debug\Utils.csproj.GenerateResource.Cache
+C:\Users\jonreed\Documents\Visual Studio 2017\Projects\Utils\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
